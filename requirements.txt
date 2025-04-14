@@ -1,0 +1,11 @@
+pandas 
+fastapi 
+uvicorn
+openpyxl
+sentence_transformers
+requests
+torch
+spacy
+fuzzywuzzy
+python-Levenshtein
+scikit-learn
